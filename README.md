@@ -1,0 +1,1 @@
+# Gerenciameno-de-Loja-CRUD
